@@ -1,0 +1,3 @@
+([('pomodoro',
+   '/Users/l0l/Documents/pomodoro-start/dist/pomodoro',
+   'EXECUTABLE')],)
